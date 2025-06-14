@@ -1,5 +1,9 @@
 ## DHT11 and MPU6050 Live Data Transmission with LoRa
 
+
+![DHT11 and MPU6050 Live Data Transmission with LoRa](https://github.com/user-attachments/assets/6917625c-ac8d-4ef5-b2c5-56bea4f722a7)
+
+
 ### Pinouts
 
 | Component   | Pin    | Connection      |
@@ -22,3 +26,4 @@
 |             | DIO0   | D2              |
 
 
+![Pinouts](https://github.com/user-attachments/assets/36fa61d2-2285-43ed-a107-6bb28aeb7201)
